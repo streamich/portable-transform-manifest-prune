@@ -1,0 +1,14 @@
+{
+  "name": "portable-transform-manifest-prune",
+  "version": "0.0.1",
+  "description": "portable.js transform to reduce package.json file sizes",
+  "main": "index.js",
+  "keywords": ["portable", "portable.js", "transform", "package.json", "minify"],
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/streamich/portable-transform-manifest-prune.git"
+  },
+  "license": "Unlicense",
+  "dependencies": {},
+  "devDependencies": {}
+}
